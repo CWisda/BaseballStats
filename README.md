@@ -5,7 +5,7 @@
 
 
 
-#BASEBALL STATS
+# BASEBALL STATS
 Baseball stats is a comprehensive web application designed to manage and display baseball statistics. It offers a user-friendly interface for baseball enthusiasts, teams, and league organizers to track, analyze, and view detailed statistics in an engaging and interactive manner. 
 
 ## Key Features 
