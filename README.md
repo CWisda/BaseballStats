@@ -1,3 +1,12 @@
+<img width="1415" alt="Screenshot 2024-05-23 at 9 43 53 AM" src="https://github.com/CWisda/BaseballStats/assets/110426681/ec4597ea-b09a-43c8-b5a6-c7ef460403cb">
+<img width="1417" alt="Screenshot 2024-05-23 at 9 44 08 AM" src="https://github.com/CWisda/BaseballStats/assets/110426681/cbfc732e-d536-4a5d-8a5a-033562062699">
+<img width="1418" alt="Screenshot 2024-05-23 at 9 44 24 AM" src="https://github.com/CWisda/BaseballStats/assets/110426681/b677ec3c-0df7-41e3-ab17-10761468b8c4">
+<img width="1416" alt="Screenshot 2024-05-23 at 9 44 39 AM" src="https://github.com/CWisda/BaseballStats/assets/110426681/6035422b-b3e6-4232-80fc-4ffc8add3ef4">
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
