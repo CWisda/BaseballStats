@@ -1,0 +1,137 @@
+{
+  "user": [
+    {
+      "id": "4",
+      "name": "James Williams",
+      "position": "Second Base",
+      "battingAverage": 0.305,
+      "yearsPlaying": 6
+    },
+    {
+      "id": "5",
+      "name": "Robert Brown",
+      "position": "Third Base",
+      "battingAverage": 0.295,
+      "yearsPlaying": 8
+    },
+    {
+      "id": "6",
+      "name": "Michael Davis",
+      "position": "Shortstop",
+      "battingAverage": 0.285,
+      "yearsPlaying": 2
+    },
+    {
+      "id": "7",
+      "name": "David Wilson",
+      "position": "Left Field",
+      "battingAverage": 0.265,
+      "yearsPlaying": 1
+    },
+    {
+      "id": "8",
+      "name": "Richard Miller",
+      "position": "Center Field",
+      "battingAverage": 0.278,
+      "yearsPlaying": 7
+    },
+    {
+      "id": "9",
+      "name": "Joseph Moore",
+      "position": "Right Field",
+      "battingAverage": 0.29,
+      "yearsPlaying": 4
+    },
+    {
+      "id": "10",
+      "name": "Charles Taylor",
+      "position": "Designated Hitter",
+      "battingAverage": 0.31,
+      "yearsPlaying": 9
+    },
+    {
+      "id": "11",
+      "name": "Thomas Anderson",
+      "position": "Pitcher",
+      "battingAverage": 0.215,
+      "yearsPlaying": 3
+    },
+    {
+      "id": "12",
+      "name": "Christopher Jackson",
+      "position": "Catcher",
+      "battingAverage": 0.23,
+      "yearsPlaying": 5
+    },
+    {
+      "id": "13",
+      "name": "Daniel White",
+      "position": "First Base",
+      "battingAverage": 0.34,
+      "yearsPlaying": 4
+    },
+    {
+      "id": "14",
+      "name": "Matthew Harris",
+      "position": "Second Base",
+      "battingAverage": 0.31,
+      "yearsPlaying": 2
+    },
+    {
+      "id": "15",
+      "name": "Anthony Martin",
+      "position": "Third Base",
+      "battingAverage": 0.27,
+      "yearsPlaying": 6
+    },
+    {
+      "id": "16",
+      "name": "Mark Thompson",
+      "position": "Shortstop",
+      "battingAverage": 0.26,
+      "yearsPlaying": 7
+    },
+    {
+      "id": "17",
+      "name": "Donald Garcia",
+      "position": "Left Field",
+      "battingAverage": 0.255,
+      "yearsPlaying": 1
+    },
+    {
+      "id": "18",
+      "name": "Paul Martinez",
+      "position": "Center Field",
+      "battingAverage": 0.288,
+      "yearsPlaying": 10
+    },
+    {
+      "id": "19",
+      "name": "Steven Robinson",
+      "position": "Right Field",
+      "battingAverage": 0.3,
+      "yearsPlaying": 5
+    },
+    {
+      "id": "20",
+      "name": "Andrew Clark",
+      "position": "Designated Hitter",
+      "battingAverage": 0.315,
+      "yearsPlaying": 8
+    },
+    {
+      "id": "4e0b",
+      "name": "Serena",
+      "position": "First Base",
+      "battingAverage": ".500",
+      "yearsPlaying": "2"
+    },
+    {
+      "id": "76b6",
+      "name": "Elliot",
+      "position": "First Base",
+      "battingAverage": ".600",
+      "yearsPlaying": "1"
+    }
+  ]
+}

@@ -14,6 +14,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+This project runs with a json server file. In order to have the project load the data from mydata.json you need to have a seperate terminal open running on another port(http://localhost:3001/).
+To get this server running cd into the directory and run the command "json-server --watch './path/to/mydata.json --port 3001'
+Once you have the server running then you can run the application serperatly and should see the data load. 
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
