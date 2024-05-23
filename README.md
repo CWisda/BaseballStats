@@ -5,6 +5,26 @@
 
 
 
+#BASEBALL STATS
+Baseball stats is a comprehensive web application designed to manage and display baseball statistics. It offers a user-friendly interface for baseball enthusiasts, teams, and league organizers to track, analyze, and view detailed statistics in an engaging and interactive manner. 
+
+## Key Features 
+- **User Management**: Create, edit, read, and delete user profiles to manage different participants and their roles within the application. 
+- **Statistical Analysis**: Users can input, view, and analyze player statistics through a series of detailed dashboards. 
+- **Real-time Updates**: The application provides real-time updates for ongoing matches, including player performance and game outcomes. 
+- **Responsive Design**: Optimized for various devices, ensuring a seamless experience on both desktops and mobile devices. 
+
+## Technology Stack 
+- **Frontend**: 
+  - **React.js**: Used for building the user interface with interactive components. 
+  - **Bootstrap**: For responsive design and styling components. 
+- **Backend**: 
+  - **Node.js** with **Express**: Server-side logic, API development, and handling requests and responses. 
+- **APIs**: 
+  - **Custom APIs**: Developed using Express to handle CRUD operations on user data and statistics. 
+- **Version Control**: 
+  - **Git**: Used for tracking changes in the source code. 
+
 
 
 # Getting Started with Create React App
