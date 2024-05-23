@@ -11,7 +11,7 @@ Baseball stats is a comprehensive web application designed to manage and display
 ## Key Features 
 - **User Management**: Create, edit, read, and delete user profiles to manage different participants and their roles within the application. 
 - **Statistical Analysis**: Users can input, view, and analyze player statistics through a series of detailed dashboards. 
-- **Real-time Updates**: The application provides real-time updates for ongoing matches, including player performance and game outcomes. 
+- **Real-time Updates**: The application provides real-time updates for ongoing games, including player performance and game outcomes. 
 - **Responsive Design**: Optimized for various devices, ensuring a seamless experience on both desktops and mobile devices. 
 
 ## Technology Stack 
